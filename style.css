@@ -1,0 +1,41 @@
+
+table[
+     width: 100%
+]
+h1{
+text-align: center;
+}
+td,th {
+    border: 2px solid red;
+    width: 14.27%
+
+}
+th{
+padding: 8px 0;
+}
+td{
+font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color:gray;
+    color: white;
+}
+.weekdays{
+background-color:black;
+    color:white;
+}
+.holiday{
+background-color: limegreen;
+    color:white;
+}
+.rally{
+    background-color:lightblue;
+    color:white;
+}
+.minimum{
+    background-color:darkred;
+    color:white;
+}
+
